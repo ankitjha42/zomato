@@ -1,0 +1,671 @@
+.navbar{
+    background-color: #fff;
+    height:72PX;
+    width: 965px;
+    display: flex;
+    justify-content: left;
+    align-items: safe ;
+    border-right: 20px;
+    margin-left: 250px;
+    content: icon;
+    
+    
+}
+
+.logo{
+    height: 27px;
+    width: 130px;
+}
+.place{
+    width: 243px;
+    height: 53px;
+    border-style: none;
+    padding-bottom: 10px;
+
+    
+}
+
+
+.locationbar{
+    font-size: xx-large;
+    gap: 2px;
+    
+}
+
+.search_logo{
+    font-size: xx-large;
+    gap: 2px;
+    
+}
+
+
+.fa-solid {
+    color: rgb(239, 79, 95);
+    padding-left: 175px;
+   
+}
+.search{
+    width: 617px;
+    height: 54px;
+    font-family: Okra, Helvetica, sans-serif;
+    
+    
+}
+.login a{
+    color: rgb(105, 105, 105);
+    padding-left: 100px;
+    text-decoration: none;
+   
+}
+.login {
+    padding-top: 15px;
+    font-size: larger;
+    font-weight: 500;
+
+}
+.signup a{
+    padding-left: 100px;
+   color:  rgb(105, 105, 105);
+   text-decoration: none;
+}
+.signup{
+    padding-top: 15px;
+    font-size:larger;
+}
+.delivery {
+    display: flex;
+height: 72px;
+width: 166px;
+
+}
+
+.dinning {
+height: 50px;
+}
+.sort{
+    display: flex;
+    justify-items: center;
+    justify-content: first baseline;
+}
+.filter a{
+    margin-top: 9px;
+    margin-left: 15px;
+    border: 1px solid rgb(207, 207, 207);
+    color: rgb(156, 156, 156);
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgba(54, 54, 54, 0.06) 0px 1px 2px;
+    border-radius: 0.8rem;
+    padding: 0.8rem;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    cursor: pointer;
+    height: 40%;
+    font-size: 1.4rem;
+    text-decoration: none;
+   
+}
+.rating a{
+    margin-top: 9px;
+    margin-left: 15px;
+    border: 1px solid rgb(207, 207, 207);
+    color: rgb(156, 156, 156);
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgba(54, 54, 54, 0.06) 0px 1px 2px;
+    border-radius: 0.8rem;
+    padding: 0.8rem;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    cursor: pointer;
+    height: 40%;
+    font-size: 1.4rem;
+    text-decoration: none;
+}
+.outdoor a{
+    margin-top: 9px;
+    margin-left: 15px;
+    border: 1px solid rgb(207, 207, 207);
+    color: rgb(156, 156, 156);
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgba(54, 54, 54, 0.06) 0px 1px 2px;
+    border-radius: 0.8rem;
+    padding: 0.8rem;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    cursor: pointer;
+    height: 40%;
+    font-size: 1.4rem;
+    text-decoration: none;
+
+}
+.serve a{
+    margin-top: 9px;
+    margin-left: 15px;
+    border: 1px solid rgb(207, 207, 207);
+    color: rgb(156, 156, 156);
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgba(54, 54, 54, 0.06) 0px 1px 2px;
+    border-radius: 0.8rem;
+    padding: 0.8rem;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    cursor: pointer;
+    height: 40%;
+    font-size: 1.4rem;
+    text-decoration: none;
+}
+.open a{
+    margin-top: 9px;
+    margin-left: 15px;
+    border: 1px solid rgb(207, 207, 207);
+    color: rgb(156, 156, 156);
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgba(54, 54, 54, 0.06) 0px 1px 2px;
+    border-radius: 0.8rem;
+    padding: 0.8rem;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    cursor: pointer;
+    height: 40%;
+    font-size: 1.4rem;
+    text-decoration: none;
+    
+}
+.content{
+     border-style: none;
+     height: 336px;
+     width: 1500px;
+     padding: 4rem 0px;
+    background:rgb(248, 248, 248);
+}
+.inspire{
+    color: rgb(28, 28, 28);
+    font-size: 2rem;
+    line-height: 1.2;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    margin: 0px 0px 2.2rem;
+}
+
+.food{
+    display: flex;
+    gap: 4px;
+}
+
+
+.pizza{
+    height: 250px;
+    width: 232px;
+    border-radius: 50%;
+    
+}
+
+.burger{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+
+.chicken{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+
+.biryani{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+
+.roll{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+
+.thali{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+
+.name{
+    display: flex;
+   
+    
+}
+
+.pizz{
+    padding-left: 95px;
+    font-size: x-large;
+    padding-top: 6px;
+    font-family: Okra, Helvetica, sans-serif;
+}
+.bur{
+    
+    font-size: x-large;
+    padding-top: 6px;
+    font-family: Okra, Helvetica, sans-serif;
+    padding-left: 176px;
+}
+
+.chi{
+    font-size: x-large;
+    padding-top: 6px;
+    font-family: Okra, Helvetica, sans-serif;
+    padding-left: 181px;
+}
+
+.bir{
+    font-size: x-large;
+    padding-top: 6px;
+    font-family: Okra, Helvetica, sans-serif;
+    padding-left: 177px;
+}
+.ro{
+    font-size: x-large;
+    padding-top: 6px;
+    font-family: Okra, Helvetica, sans-serif;
+    padding-left: 185px;
+}
+.th{
+    font-size: x-large;
+    padding-top: 6px;
+    font-family: Okra, Helvetica, sans-serif;
+    padding-left: 200px;
+}
+.content2{
+    border-style: none;
+    height: 336px;
+    width: 1500px;
+    padding: 4rem 0px;
+   background:white
+}
+.top{
+    color: rgb(28, 28, 28);
+    font-size: 2rem;
+    line-height: 1.2;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    margin: 0px 0px 2.2rem;
+}
+.brand{
+    display: flex;
+    gap: 4px;
+}
+.lapino{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+.la{
+    font-size: x-large;
+    padding-top: 6px;
+    font-family: 'Poppins', sans-serif;
+    padding-left: 37px;
+}
+.time{
+    font-size: large;
+    padding-top: 6px;
+    font-family: 'Poppins', sans-serif;
+    padding-left: 90px;
+}
+
+.dom{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+.do{
+    font-size: x-large;
+    padding-top: 6px;
+    font-family: 'Poppins', sans-serif;
+    padding-left: 37px;
+}
+.pi{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+.hut{
+    font-size: x-large;
+    padding-top: 6px;
+    font-family: 'Poppins', sans-serif;
+    padding-left: 73px
+}
+
+.br{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+.bask{
+    font-size: x-large;
+    padding-top: 6px;
+    font-family: 'Poppins', sans-serif;
+    padding-left: 44px;
+}
+.hide{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+
+.out{
+    font-size: x-large;
+    padding-top: 6px;
+    font-family: 'Poppins', sans-serif;
+    padding-left: 44px;
+}
+
+.chix{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+
+.chica{
+    font-size: x-large;
+    padding-top: 6px;
+    font-family: 'Poppins', sans-serif;
+    padding-left: 44px;
+}
+
+.content3{
+    border-style: none;
+    height: 400px;
+    width: 1500px;
+    padding: 4rem 0px;
+   background:white
+}
+.patna{
+    color: rgb(28, 28, 28);
+    font-size: 2rem;
+    line-height: 1.2;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    margin: 0px 0px 2.2rem;
+}
+.best{
+    display: flex;
+    gap: 75px;
+}
+.shah{
+    border-style: none;
+    border-radius: 7%;
+    height: 285px;
+    width: 450px;
+    padding:10px;
+   background:white
+}
+.pin{
+    border-style: none;
+    border-radius: 7%;
+    height: 285px;
+    width: 450px;
+    padding:10px;
+   background:white                     
+}
+.wat{
+    border-style: none;
+    border-radius: 7%;
+    height: 285px;
+    width: 450px;
+    padding:10px;
+   background:white 
+}
+.fast{
+    border-style: none;
+    max-width: fit-content;
+    display: flex;
+   
+}
+.badshah{
+    padding-left: 15px;
+    font-size: x-large;
+   
+}
+.sha{
+    color: rgb(105, 105, 105);
+    display: flex;
+    
+}
+.fa-regular{
+    padding-left: 250px;
+}
+.r250{
+    padding-left: 110px;
+}
+
+.star{
+    padding-left: 95px;
+    font-size: x-large;
+
+}
+#a45{
+  padding-left: 295px;
+}
+.wata{
+    padding-left: 95px;
+    font-size: x-large;
+    
+}
+.r25{
+    padding-left: 120px;
+}
+
+
+
+.tutu{
+    
+    height: 27px ;
+    width: 130px;
+}
+footer{
+    background-color: rgb(226, 224, 224);;
+    display: flex;
+}
+.country{
+    padding-left: 1100px;
+    font-size: larger;
+    text-align: center;
+   width: 25px;
+   height: 27px;
+   gap: 15px;
+   
+}
+.language{
+    padding-left: 100px;
+    
+    padding-bottom: 1px;
+    color: rgb(156, 156, 156) ;
+
+}
+
+
+.zo_lf a{
+    font-weight: bold;
+    padding-top: 10px;
+    text-decoration: none;
+    color: black;
+    
+    
+}
+.zo_lf{
+    padding-top: 10px;
+}
+.z1 a{
+    padding-top: 10px;
+    text-decoration: none;
+    color: black;
+}
+.z2 a{
+    padding-top: 10px;
+    text-decoration: none;
+    color: black;
+}
+.z3 a{
+    padding-top: 10px;
+    text-decoration: none;
+    color: black;
+}
+.z4 a{
+    padding-top: 10px;
+    text-decoration: none;
+    color: black;
+}
+.r1 a{
+    padding-top: 10px;
+    text-decoration: none;
+    color: black;
+}
+.r2 a{
+    padding-top: 10px;
+    text-decoration: none;
+    color: black;
+}
+.r3 a{
+    padding-top: 10px;
+    text-decoration: none;
+    color: black;
+}
+.r4 a{
+    padding-top: 10px;
+    text-decoration: none;
+    color: black;
+}
+.r5 a{
+    padding-top: 10px;
+    text-decoration: none;
+    color: black;
+}
+.ankit{
+    font-size: large;
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+    background-color:  rgb(226, 224, 224)
+    
+   
+
+}
+.verse{
+    padding-left: 150px;
+    padding-top: 10px;
+    
+}
+.restraunts a{
+    padding-left: 150px;
+    
+}
+.restraunts{
+    padding-top: 10px;
+}
+.t1 a{
+    padding-top: 10px;
+    text-decoration: none;
+    color: black;
+}
+.t2 a{
+    padding-top: 10px;
+    text-decoration: none;
+    color: black;
+}
+.t3 a{
+    padding-top: 10px;
+    text-decoration: none;
+    color: black;
+}
+.t4 a{
+    padding-top: 10px;
+    text-decoration: none;
+    color: black;
+}
+.learn a{
+    padding-left: 150px;
+}
+.learn{
+    padding-top: 10px;
+}
+.s1 a{
+    padding-top: 10px;
+    text-decoration: none;
+    color: black;
+}
+.s2 a{
+    padding-top: 10px;
+    text-decoration: none;
+    color: black;
+}
+.s3 a{
+    padding-top: 10px;
+    text-decoration: none;
+    color: black;
+}
+.s4 a{
+    padding-top: 10px;
+    text-decoration: none;
+    color: black;
+}
+.social{
+    
+    padding-left: 150px;
+    padding-top: 10px;
+    
+}
+.linkedin {
+    display: flex;
+    color: black;
+    gap: 10px;
+    font-size: xx-large;
+}
+.linkedin a{
+    color: black;
+    
+
+}
+.app a{
+    color: black;
+    font-size:200%;
+}
+.app{
+    padding-top: 5px;
+    display: flex;
+    
+}
+.apple {
+    color: black;
+    font-size: 200%;
+    display: flex;
+
+}
+.apples{
+    padding-top: 2px;
+    font-size: 70%;
+    
+}
+.apples a{
+    text-decoration: none;
+    color: black;
+}
+.google {
+    font-size: 70%;
+}
+.google a{
+    text-decoration: none;
+    color: black;
+}
+.own{
+    font-size: large;
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(226, 224, 224)                  
+}
+.space{
+    background-color: rgb(226, 224, 224)
+}
+
